@@ -1,1 +1,1 @@
-# songdetection
+# song-detector-server
